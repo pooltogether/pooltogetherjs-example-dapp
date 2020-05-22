@@ -1,5 +1,5 @@
 {
-  "name": "learn-starter",
+  "name": "pooltogetherjs-example-dapp",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,7 +8,10 @@
     "start": "next start"
   },
   "dependencies": {
+    "@pooltogether/pooltogether-contracts": "^0.2.12",
+    "ethers": "^4.0.47",
     "next": "9.3.5",
+    "pooltogetherjs": "pooltogether/pooltogetherjs",
     "react": "16.13.1",
     "react-dom": "16.13.1"
   }
