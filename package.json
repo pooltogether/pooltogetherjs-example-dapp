@@ -10,7 +10,7 @@
   "dependencies": {
     "@pooltogether/pooltogether-contracts": "^0.2.12",
     "ethers": "^4.0.47",
-    "next": "9.3.5",
+    "next": "11.1.0",
     "pooltogetherjs": "pooltogether/pooltogetherjs",
     "react": "16.13.1",
     "react-dom": "16.13.1"
